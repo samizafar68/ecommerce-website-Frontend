@@ -18,6 +18,7 @@ This is my **first project** in my programming degree or career. It marks the be
 
 1. Clone the repository:
    ```bash
+   git clone https://github.com/samizafar68/ecommerce-website-Frontend.git
 ## Snapshots:
 ![image](https://github.com/user-attachments/assets/2275f763-2cec-416b-852f-1dcba9c9fb3b)
 ![image](https://github.com/user-attachments/assets/fe7d6357-d367-4d32-8086-0d9f5fcc4ba5)
